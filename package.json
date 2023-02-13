@@ -1,0 +1,20 @@
+{
+  "name": "nodejscrudapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NavaleAbhay/NodejsCRUDAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NavaleAbhay/NodejsCRUDAPI/issues"
+  },
+  "homepage": "https://github.com/NavaleAbhay/NodejsCRUDAPI#readme"
+}
